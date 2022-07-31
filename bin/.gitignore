@@ -1,0 +1,6 @@
+*.exe
+chrome/
+csv/
+db/
+logs/
+rsrc/
